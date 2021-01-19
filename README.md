@@ -5,7 +5,7 @@
 
 ```bash
 $ virtualenv -p python3.9 venv3.9
-$ . venv3.9/bin/activate
+$ . venv3.9/Script/activate
 ```  
 
 ## 2. Instalación de Django y psycog2.  
